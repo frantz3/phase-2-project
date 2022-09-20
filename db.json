@@ -1,0 +1,150 @@
+{
+  "workouts": [
+    {
+      "name": "Push",
+      "id": "5648f17f4191d85ad0d60833",
+      "movements": [
+        {
+          "name": "flat barbell bench press",
+          "sets": 3,
+          "reps": 5,
+          "priority": 0,
+          "restTime": 180,
+          "id": "5648f17f4191d85ad0d60839"
+        },
+        {
+          "name": "standing barbell overhead press",
+          "sets": 3,
+          "reps": 5,
+          "priority": 0,
+          "restTime": 180,
+          "id": "5648f17f4191d85ad0d60838"
+        },
+        {
+          "name": "incline barbell bench press",
+          "sets": 3,
+          "reps": 5,
+          "priority": 1,
+          "restTime": 180,
+          "id": "5648f17f4191d85ad0d60837"
+        },
+        {
+          "name": "dumbbell side lateral raise",
+          "sets": 3,
+          "reps": 12,
+          "priority": 1,
+          "restTime": 120,
+          "id": "5648f17f4191d85ad0d60836"
+        },
+        {
+          "name": "rope pushdown",
+          "sets": 3,
+          "reps": 12,
+          "priority": 2,
+          "restTime": 120,
+          "id": "5648f17f4191d85ad0d60835"
+        },
+        {
+          "name": "dumbbell shrug",
+          "sets": 3,
+          "reps": 12,
+          "priority": 3,
+          "restTime": 90,
+          "id": "5648f17f4191d85ad0d60834"
+        }
+      ]
+    },
+    {
+      "name": "Pull",
+      "id": "5648f17f4191d85ad0d6082c",
+      "movements": [
+        {
+          "name": "barbell row",
+          "sets": 3,
+          "reps": 5,
+          "priority": 0,
+          "restTime": 180,
+          "id": "5648f17f4191d85ad0d60832"
+        },
+        {
+          "name": "deadlift",
+          "sets": 3,
+          "reps": 5,
+          "priority": 0,
+          "restTime": 180,
+          "id": "5648f17f4191d85ad0d60831"
+        },
+        {
+          "name": "lat pulldown",
+          "sets": 3,
+          "reps": 10,
+          "priority": 1,
+          "restTime": 180,
+          "id": "5648f17f4191d85ad0d60830"
+        },
+        {
+          "name": "face-pull",
+          "sets": 3,
+          "reps": 12,
+          "priority": 1,
+          "restTime": 120,
+          "id": "5648f17f4191d85ad0d6082f"
+        },
+        {
+          "name": "barbell bicep curl",
+          "sets": 4,
+          "reps": 12,
+          "priority": 2,
+          "restTime": 120,
+          "id": "5648f17f4191d85ad0d6082e"
+        },
+        {
+          "name": "hammer curls",
+          "sets": 3,
+          "reps": 12,
+          "priority": 3,
+          "restTime": 90,
+          "id": "5648f17f4191d85ad0d6082d"
+        }
+      ]
+    },
+    {
+      "name": "Legs",
+      "id": "5648f17f4191d85ad0d60827",
+      "movements": [
+        {
+          "name": "barbell squat",
+          "sets": 3,
+          "reps": 5,
+          "priority": 0,
+          "restTime": 180,
+          "id": "5648f17f4191d85ad0d6082b"
+        },
+        {
+          "name": "leg extension",
+          "sets": 3,
+          "reps": 10,
+          "priority": 1,
+          "restTime": 120,
+          "id": "5648f17f4191d85ad0d6082a"
+        },
+        {
+          "name": "hamstring curl",
+          "sets": 3,
+          "reps": 10,
+          "priority": 2,
+          "restTime": 120,
+          "id": "5648f17f4191d85ad0d60829"
+        },
+        {
+          "name": "standing calf raise",
+          "sets": 5,
+          "reps": 12,
+          "priority": 1,
+          "restTime": 120,
+          "id": "5648f17f4191d85ad0d60828"
+        }
+      ]
+    }
+  ]
+}
