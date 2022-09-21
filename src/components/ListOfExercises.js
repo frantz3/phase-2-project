@@ -1,16 +1,16 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import Item from "./Exercise";
 
 
 function List({ list }) {
   
-  const [items, setItems] = useState([]);
+  // const [items, setItems] = useState([]);
   
-  useEffect(() => {
-    fetch("http://localhost:4000/workouts")
-    .then((r) => r.json())
-    .then((items) => setItems(items));
-  }, []);
+  // useEffect(() => {
+  //   fetch("http://localhost:4000/workouts")
+  //   .then((r) => r.json())
+  //   .then((items) => setItems(items));
+  // }, []);
   
  
   const listOfJSX = list.map((item) => <Item  {...item} />);

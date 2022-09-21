@@ -8,6 +8,7 @@ import { useEffect, useState } from "react";
 import MovementForm from "./components/MovementForm";
 import Home from "./components/Home";
 
+
 function App() {
   const [list, setList] = useState([]);
  
@@ -18,10 +19,10 @@ function App() {
         .then((data) => setList(data));
     }, []);
   
-
-  
-  return (
-    <Router>
+    
+    
+    return (
+      <Router>
       <Header />
       <Switch>
         <Route exact path="/workout/new" render={() => <Form setList={setList} />} />

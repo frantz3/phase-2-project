@@ -1,8 +1,6 @@
 import React, { useState } from "react";
-import { useHistory } from "react-router-dom";
-
 function Form({ setList }) {
-  const history = useHistory()
+
   const prevState = {
     name: "",
   };
@@ -60,7 +58,7 @@ function Form({ setList }) {
             backgroundColor: "#fc5904",
             padding: "10px",
             marginLeft: -3,
-            
+          
           }}
         >
           Workout Name
@@ -80,3 +78,6 @@ function Form({ setList }) {
 }
 
 export default Form;
+
+// create a counter component
+// start at 0 and increment by one using setInterval
