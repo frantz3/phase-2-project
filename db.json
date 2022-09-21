@@ -159,39 +159,7 @@
           "id": "5648f17f4191d85ad0d60828"
         }
       ]
-    },
-    {
-      "name": "Chest ",
-      "movements": [
-        {
-          "name": "bench press",
-          "sets": "3",
-          "reps": "10",
-          "priority": "",
-          "restTime": "120"
-        },
-        {
-          "name": "push ups",
-          "sets": "3",
-          "reps": "12",
-          "priority": "",
-          "restTime": "60"
-        }
-      ],
-      "id": "fhccLmO"
-    },
-    {
-      "name": "Back and biceps",
-      "movements": [
-        {
-          "name": "",
-          "sets": "",
-          "reps": "",
-          "priority": "",
-          "restTime": ""
-        }
-      ],
-      "id": "XcLptON"
     }
+    
   ]
 }
